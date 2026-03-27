@@ -335,3 +335,9 @@
     .timeline-meta { text-align:left; }
     .edu-card { flex-direction:column; }
   }
+
+
+  /* Extra Added Color */
+  .border-radius {
+    border-radius: 50%;
+  }
