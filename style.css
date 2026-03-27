@@ -1,5 +1,5 @@
 
-  :root {
+  /* :root {
     --purple-deep:   #1a0933;
     --purple-dark:   #2d1057;
     --purple-mid:    #6c2eb9;
@@ -12,7 +12,23 @@
     --text-muted:    #7a6a99;
     --card-bg:       rgba(45,16,87,0.55);
     --border:        rgba(155,89,245,0.25);
-  }
+  } */
+
+  :root {
+  --purple-deep:   #0a0a0a;
+  --purple-dark:   #110008;
+  --purple-mid:    #c0003c;
+  --purple-bright: #ff1a5e;
+  --purple-glow:   #ff6b9d;
+  --accent-pink:   #ff0055;
+  --accent-cyan:   #ff4d8d;
+  --text-primary:  #fff0f5;
+  --text-secondary:#e0b0c0;
+  --text-muted:    #9a6070;
+  --card-bg:       rgba(20,0,10,0.65);
+  --border:        rgba(255,26,94,0.22);
+}
+
 
   *, *::before, *::after { margin:0; padding:0; box-sizing:border-box; }
 
